@@ -1,0 +1,11 @@
+{
+  "name": "CenterCare - 국민체육센터 시설점검 및 통합 이력 관리",
+  "description": "국민체육센터 기계·소방 시설의 모바일 점검표 자동화, 법정 점검 D-Day 알림, QR코드 설비 고장 수리 이력 DB 및 1클릭 월간 결재 보고서 시스템",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
